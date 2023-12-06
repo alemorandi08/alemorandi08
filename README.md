@@ -2,7 +2,7 @@
 
 Meu nome é Alessandra Morandi.
 
--Estou estudando n plataforma
+-Estou estudando na plataforma
 -Estou me desenvolvendo nas linguagens java script, html e css.
 -utilizo este espaço para minha organização e compartilhamento dos meus projetos
 
